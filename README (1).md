@@ -15,4 +15,7 @@ if storage can't download file this, almost full storage, but if the storage can
 
 download for Minecraft bedrock Edition
 
-![](social-media.png)
+![](gmail.png)g-mail : gearsauto.manatic@gmail.com
+
+© 2025 powered by ᴏᴊᴀɴＰＲＯＪＥＣＴツ
+![](
