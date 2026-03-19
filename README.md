@@ -32,7 +32,11 @@ information has been deleted for save memory sizes 15%
 # download on the google drive
 you can copying links or tap for opening links on down
 
+**old links**
 https://drive.google.com/file/d/1kuu0o8BzAvO4GeNurCqqwPmVehonDaCe/view?usp=drivesdk
+
+**new links**
+https://drive.google.com/file/d/1ofjrZ9LSk9F8NzarPZl19v7G27ca6oY-/view?usp=drivesdk
 
 if storage can't download file this, almost full storage, but if the storage can already download this file But if it gets stuck in the middle of the download, there may be an error with the wifi or cellular data.
 # download game MC bedrock Edition
