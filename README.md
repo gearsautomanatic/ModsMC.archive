@@ -1,9 +1,7 @@
-# modsMC.archive
+# modsMC.archive V2
 This mod is only supported on the Bedrock Edition.
-WARNING
-IS LARGE, EXCEEDING 150 MB IN SIZE
-216.32 MB, IF MODIFIED, THE FILE SIZE MAY INCREASE
-
+### EVENT⚠️
+file ModsMC.archive has been updated!
 # download on the google drive
 you can copying links or tap for opening links on down
 
